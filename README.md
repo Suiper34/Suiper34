@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suiper34
 - 👀 I’m interested in cross-platform mobile app development 
-- 🌱 I’m currently learning flutter&dart
+- 🌱 I’m currently learning flutter&dart,ML 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
